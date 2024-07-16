@@ -16,6 +16,7 @@
     <link rel="stylesheet" href="CSS/start.css">
     <style>
         .alert{
+             
             background: #00BFFF;
             padding: 20px 40px;
             min-width: 420px;
